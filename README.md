@@ -2,7 +2,7 @@
 
 Kelvin Connector for Handheld LCR Meter.
 
-Use right angle sma connector or solder wire directly to pcb.
+Use right angle sma connector or solder wire directly to the pcb.
 
 recommended pcb thickness 1.0 ~ 1.2 Millimeter.
 
