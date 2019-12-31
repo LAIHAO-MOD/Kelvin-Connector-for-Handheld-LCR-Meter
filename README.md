@@ -17,9 +17,14 @@ Use  KICAD 5.1 as Schematic & Pcb design software .
 
 layout
 
-![layout](https://github.com/LAIHAO-MOD/Kelvin-Connector-for-Handheld-LCR-Meter/blob/master/pictures/kicad_US11Ft9HeG.png)
+![layout](https://github.com/LAIHAO-MOD/Kelvin-Connector-for-Handheld-LCR-Meter/blob/master/pictures/kicad_7xDl9Xi438.png)
+
+
+![layout](https://github.com/LAIHAO-MOD/Kelvin-Connector-for-Handheld-LCR-Meter/blob/master/pictures/kicad_aQFMcjNyhQ.png)
+
 
 3d rendering
+
 
 ![3d rendering](https://github.com/LAIHAO-MOD/Kelvin-Connector-for-Handheld-LCR-Meter/blob/master/pictures/kicad_xdM78XaIPH.png)
 
