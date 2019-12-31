@@ -1,0 +1,28 @@
+Drill report for C:\Users\Administrator\Documents\KICAD project\Kelvin's 4 wire\Kelvin Connector for Handheld LCR Meter\Kelvin Connector for Handheld LCR Meter.kicad_pcb
+Created on 14/08/2019 22:30:21
+
+Copper Layer Stackup:
+    =============================================================
+    L1 :  F.Cu                      front
+    L2 :  B.Cu                      back
+
+
+Drill file 'Kelvin Connector for Handheld LCR Meter-PTH.drl' contains
+    plated through holes:
+    =============================================================
+    T1  0.30mm  0.012"  (56 holes)
+    T2  1.00mm  0.039"  (5 holes)
+    T3  1.20mm  0.047"  (6 holes)
+    T4  1.50mm  0.059"  (4 holes)
+    T5  1.60mm  0.063"  (16 holes)
+    T6  3.20mm  0.126"  (2 holes)
+
+    Total plated holes count 89
+
+
+Drill file 'Kelvin Connector for Handheld LCR Meter-NPTH.drl' contains
+    unplated through holes:
+    =============================================================
+    T1  4.30mm  0.169"  (1 hole)
+
+    Total unplated holes count 1
