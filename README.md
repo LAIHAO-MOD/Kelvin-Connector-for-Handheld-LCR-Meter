@@ -8,6 +8,8 @@ recommended pcb thickness 1.0 ~ 1.2 Millimeter.
 
 highly recommended use gold plated pcb.
 
+assemble with  m3 screw & nuts.
+
 Production Gerber files included.
 
 3d printable case files included.
